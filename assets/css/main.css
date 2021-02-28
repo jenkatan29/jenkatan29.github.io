@@ -313,6 +313,13 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.right {
+		position: absolute;
+		right: 0px;
+		width: 300px;
+		padding: 5px;
+	  }
+
 /* Row */
 
 	.row {
